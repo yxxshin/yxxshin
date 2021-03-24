@@ -2,7 +2,7 @@
 
 <div align=center>
 
-![profile](https://imgur.com/Puq1736.png)
+![profile](https://imgur.com/woHjHst.png)
 
 Hi, I'm a Student Developer from Seoul, Korea.  
 Find more info from me at [here](https://yxxshin.github.io/about/)
@@ -29,9 +29,7 @@ Find more info from me at [here](https://yxxshin.github.io/about/)
 <img src="https://img.shields.io/badge/Fusion%20360-0696D7?style=flat-square&logo=Autodesk&logoColor=white"/></a>&nbsp;
 
 ## ✉️ Reach me by ✉️
-![Blog](https://img.shields.io/badge/My&nbsp;Blog-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://yxxshin.github.io/)
-
-<img src="https://img.shields.io/badge/My&nbsp;Blog-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://yxxshin.github.io/"/></a>&nbsp;
+[![Blog](https://img.shields.io/badge/My&nbsp;Blog-181717?style=flat-square&logo=GitHub&logoColor=white)](https://yxxshin.github.io/)
 
 ![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=samshin3910)
 
