@@ -2,15 +2,18 @@
 
 <div align=center>
 
-![profile](https://imgur.com/DVU35lB.png)
+![profile](https://imgur.com/Puq1736.png)
 
 Hi, I'm a Student Developer from Seoul, Korea.  
 Find more info from me at [here](https://yxxshin.github.io/about/)
 
-![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=samshin3910)
+
   
 ## ⚡️ Tech Stacks ⚡️
-<img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
-
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
 
 </div>
+
+
+
+![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=samshin3910)
