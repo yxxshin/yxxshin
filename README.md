@@ -29,7 +29,12 @@ Find more info from me at [here](https://yxxshin.github.io/about/)
 <img src="https://img.shields.io/badge/Fusion%20360-0696D7?style=flat-square&logo=Autodesk&logoColor=white"/></a>&nbsp;
 
 ## ✉️ Reach me by ✉️
-[![Blog](https://img.shields.io/badge/My&nbsp;Blog-181717?style=flat-square&logo=GitHub&logoColor=white)](https://yxxshin.github.io/)
+[![Blog](https://img.shields.io/badge/My&nbsp;Blog-181717?style=flat-square&logo=GitHub&logoColor=white)](https://yxxshin.github.io/)&nbsp;
+[![Mail](https://img.shields.io/badge/Email-005FF9?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:samshin3910@snu.ac.kr)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/yxxshin0209/)&nbsp;
+
+
+
 
 ![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=samshin3910)
 
