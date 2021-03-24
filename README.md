@@ -28,6 +28,8 @@ Find more info about me at [here](https://yxxshin.github.io/about/)
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Fusion%20360-0696D7?style=flat-square&logo=Autodesk&logoColor=white"/></a>&nbsp;
 
+</br>
+
 ## ✉️ Reach me by ✉️
 [![Blog](https://img.shields.io/badge/My&nbsp;Blog-181717?style=flat-square&logo=GitHub&logoColor=white)](https://yxxshin.github.io/)&nbsp;
 [![Mail](https://img.shields.io/badge/Email-005FF9?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:samshin3910@snu.ac.kr)&nbsp;
