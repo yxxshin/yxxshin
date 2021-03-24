@@ -5,7 +5,7 @@
 ![profile](https://imgur.com/woHjHst.png)
 
 Hi, I'm a Student Developer from Seoul, Korea.  
-Find more info from me at [here](https://yxxshin.github.io/about/)
+Find more info about me at [here](https://yxxshin.github.io/about/)
   
 ## ⚡️ Tech Stacks ⚡️
 ### Techs I've used at least once!  
