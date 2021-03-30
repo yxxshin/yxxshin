@@ -2,7 +2,7 @@
 
 <div align=center>
 
-![profile](https://imgur.com/woHjHst.png)
+<img src="https://imgur.com/Y9HauqE.png" width="150"/>
 
 Hi, I'm a Student Developer from Seoul, Korea.  
 Find more info about me at [here](https://yxxshin.github.io/about/)
