@@ -24,7 +24,7 @@ Find more info about me at [here](https://yxxshin.github.io/about/)
 <img src="https://img.shields.io/badge/Fusion%20360-0696D7?style=flat-square&logo=Autodesk&logoColor=white"/></a>&nbsp;
 
 ### I am learning
-<img src="https://img.shields.io/badge/React-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp;
