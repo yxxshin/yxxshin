@@ -54,6 +54,6 @@ Find more info about me at [here](https://yxxshin.github.io/about/)
 
 
 
-![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=samshin3910)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=samshin3910)](https://solved.ac/samshin3910/)
 
 </div>
