@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&fontAlignY=30&section=header&text=Hello,&nbsp;Welcome!&fontSize=30&animation=twinkling)
-
 <div align=center>
 
 <img src="https://imgur.com/Y9HauqE.png" width="150"/>
@@ -19,7 +17,7 @@ Find more info about me at [here](https://yxxshin.github.io/about/)
 
 
 
-### Techs I've used at least once!  
+### Techs I've used at least once  
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Matlab-0076A8?style=flat-square&logo=Mathworks&logoColor=white"/></a>&nbsp;
