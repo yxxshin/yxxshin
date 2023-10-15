@@ -5,16 +5,16 @@
 Hi, I'm a Student Developer from Seoul, Korea.  
 Find more info about me at [here](https://yxxshin.github.io/about/)
   
-## ⚡️ Tech Stacks ⚡️
+## Tech Stacks
 ### Techs I am good at
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/></a>&nbsp;
-
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp;
 
+
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/></a>&nbsp;
 
 
 ### Techs I've used at least once  
@@ -37,17 +37,13 @@ Find more info about me at [here](https://yxxshin.github.io/about/)
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp;
 
-
-### I am learning
-
-
-
 </br>
 
-## ✉️ Reach me by ✉️
+## Reach me by
 [![Blog](https://img.shields.io/badge/My&nbsp;Blog-181717?style=flat-square&logo=GitHub&logoColor=white)](https://yxxshin.github.io/)&nbsp;
 [![Mail](https://img.shields.io/badge/Email-005FF9?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:samshin3910@snu.ac.kr)&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/yxxshin0209/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yeonsang-shin-a838ab1ab/)&nbsp;
 
 
 
