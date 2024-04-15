@@ -2,9 +2,11 @@
 
 <img src="https://imgur.com/Y9HauqE.png" width="150"/>
 
-Hi, I'm a Student Developer from Seoul, Korea.  
-Find more info about me at [here](https://yxxshin.github.io/about/)
-  
+Hello, I am not updating this page anymore;
+</br>
+find more about me at my [LinkedIn](https://www.linkedin.com/in/yeonsangshin/)
+
+
 ## Tech Stacks
 ### Techs I am good at
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
@@ -43,7 +45,7 @@ Find more info about me at [here](https://yxxshin.github.io/about/)
 [![Blog](https://img.shields.io/badge/My&nbsp;Blog-181717?style=flat-square&logo=GitHub&logoColor=white)](https://yxxshin.github.io/)&nbsp;
 [![Mail](https://img.shields.io/badge/Email-005FF9?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:samshin3910@snu.ac.kr)&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/yxxshin0209/)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yeonsang-shin-a838ab1ab/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yeonsangshin/)&nbsp;
 
 
 
