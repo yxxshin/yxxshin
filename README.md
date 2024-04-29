@@ -4,7 +4,7 @@
 
 Hello, I am not updating this page anymore;
 </br>
-find more about me at my [LinkedIn](https://www.linkedin.com/in/yeonsangshin/)
+find more about me at my [LinkedIn](https://www.linkedin.com/in/yeonsangshin/) / [CV(24/04/18)](https://drive.google.com/file/d/1AmAhBdJ4cwq9YCLy5llsZzjzvYPZNkfJ/view?usp=sharing)
 
 
 ## Tech Stacks
