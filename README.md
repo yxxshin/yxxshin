@@ -1,6 +1,6 @@
 <div align=center>
 
-<img src="https://imgur.com/Y9HauqE.png" width="150"/>
+<img src="https://imgur.com/09l79hK.png" width="300"/>
 
 Hello, I am not updating this page anymore;
 </br>
